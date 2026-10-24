@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Shared TypeScript contracts and Zod schemas for Xentra.
-- A producer and consumer of xentra data need to share the published type or validation contract before exchanging payloads.
+- Validate Xentra payloads using the shared runtime schemas.
+- Share domain contracts across the SDK, API and React consumers.
 
 ## Links
 
