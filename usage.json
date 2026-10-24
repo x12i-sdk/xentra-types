@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xentra-types",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xentra-types",
+  "usageRepository": "https://github.com/x12i-sdk/xentra-types",
+  "sourceRepository": "https://github.com/x12i/xentra",
+  "sourceCommit": "004372e6695509bf2e95d2e4e53d4534e81dd312",
+  "sourcePackageDirectory": "packages/types",
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:31:22.722036+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "4da36cb8e60a9271cdf8edb6b077242cb2082faab36a35bf36d68a166bddbe4d",
+    "manifestSha256": "34ea5143285b0d277f9db1a408dac8724b9421f00aacce3bda6309781a6b7fd6"
+  }
+}
